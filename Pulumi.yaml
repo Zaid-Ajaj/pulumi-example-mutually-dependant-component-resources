@@ -1,0 +1,7 @@
+name: circular
+description: A minimal Random C# Pulumi program.
+runtime: dotnet
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: random-csharp
